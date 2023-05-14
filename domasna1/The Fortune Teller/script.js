@@ -8,6 +8,6 @@ var geoLocation = 'Tokio';
 var jobTitle = 'Webdeveloper';
 
 
-console.log("You will be" + "  " + jobTitle + " " + "in"+ " " + geoLocation + " " + "you will be married to"+" " + partnerName+" "+ "and you will have" + " "+ numChilds+ " "+"children." );
+console.log(`You will be ${jobTitle}, in ${geoLocation} and you will be married to ${partnerName} and you will have ${numChilds} children.`);
 
 
